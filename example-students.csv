@@ -1,0 +1,11 @@
+Roll Number,Name,Branch,Year,Semester,Email,Phone
+CS001,John Doe,Computer Science,3,5,john.doe@example.com,1234567890
+CS002,Jane Smith,Computer Science,3,5,jane.smith@example.com,1234567891
+CS003,Bob Johnson,Computer Science,3,5,bob.johnson@example.com,1234567892
+EE001,Alice Brown,Electrical Engineering,3,5,alice.brown@example.com,1234567893
+EE002,Charlie Wilson,Electrical Engineering,3,5,charlie.wilson@example.com,1234567894
+ME001,David Lee,Mechanical Engineering,3,5,david.lee@example.com,1234567895
+ME002,Eva Martinez,Mechanical Engineering,3,5,eva.martinez@example.com,1234567896
+CE001,Frank Taylor,Civil Engineering,3,5,frank.taylor@example.com,1234567897
+CE002,Grace Anderson,Civil Engineering,3,5,grace.anderson@example.com,1234567898
+
