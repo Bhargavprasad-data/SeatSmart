@@ -24,9 +24,9 @@ A comprehensive MERN stack application for managing exam seating arrangements in
   - Download as Excel (via exceljs).
 
 ### 🎓 Student Side (Optional)
-- Login using Roll Number
-- View exam details: Subject, date, time
-- View seating info: Assigned room and seat number
+- Login using Roll Number.
+- View exam details: Subject, date, time.
+- View seating info: Assigned room and seat number.
 
 ## 🛠️ Tech Stack
 
