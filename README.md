@@ -7,21 +7,21 @@ A comprehensive MERN stack application for managing exam seating arrangements in
 ### 👩‍🏫 Admin Side
 - **Authentication**: Secure login/signup with JWT
 - **Student Management**: 
-  - Manual student entry
-  - Bulk upload via CSV/Excel with Multer
-- **Room Management**: Add rooms with capacity and layout details
-- **Exam Management**: Create and manage exams with subject, date, time, branch, and year
-- **Faculty Management**: Add and manage faculty members with department details
+  - Manual student entry.
+  - Bulk upload via CSV/Excel with Multer.
+- **Room Management**: Add rooms with capacity and layout details.
+- **Exam Management**: Create and manage exams with subject, date, time, branch, and year.
+- **Faculty Management**: Add and manage faculty members with department details.
 - **Invigilator Assignment**: 
-  - Assign faculty to rooms as invigilators
-  - Auto-detect time conflicts and prevent double-booking
+  - Assign faculty to rooms as invigilators.
+  - Auto-detect time conflicts and prevent double-booking.
 - **Seating Plan Generation**:
-  - Dynamic seat allocation based on roll number
-  - Cross-branch mixing option for better spacing
-  - Auto-fill rooms respecting capacity and layout
+  - Dynamic seat allocation based on roll number.
+  - Cross-branch mixing option for better spacing.
+  - Auto-fill rooms respecting capacity and layout.
 - **Export Options**:
-  - Download as PDF (via pdfkit)
-  - Download as Excel (via exceljs)
+  - Download as PDF (via pdfkit).
+  - Download as Excel (via exceljs).
 
 ### 🎓 Student Side (Optional)
 - Login using Roll Number
