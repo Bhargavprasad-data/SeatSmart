@@ -1,6 +1,6 @@
 # 🏫 SeatSmart - Engineering College Exam Seating Arrangement Planner
 
-A comprehensive MERN stack application for managing exam seating arrangements in engineering colleges.
+A comprehensive MERN stack application for managing exam seating arrangements in engineering colleges
 
 ## 🚀 Features
 
