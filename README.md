@@ -12,7 +12,7 @@ A comprehensive MERN stack application for managing exam seating arrangements in
 - **Room Management**: Add rooms with capacity and layout details.
 - **Exam Management**: Create and manage exams with subject, date, time, branch, and year.
 - **Faculty Management**: Add and manage faculty members with department details.
-- **Invigilator Assignment**: 
+- **Invigilator Assignment**:
   - Assign faculty to rooms as invigilators.
   - Auto-detect time conflicts and prevent double-booking.
 - **Seating Plan Generation**:
