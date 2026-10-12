@@ -179,7 +179,7 @@ SeatSmart/
 - [ ] Role-based access control
 - [ ] Real-time updates
 
-## 📝 License
+## 📝 License..
 
 This project is licensed under the MIT License.
 
