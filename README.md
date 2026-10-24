@@ -5,7 +5,7 @@ A comprehensive MERN stack application for managing exam seating arrangements in
 ## 🚀 Features
 
 ### 👩‍🏫 Admin Side
-- **Authentication**: Secure login/signup with JWT
+- **Authentication**: Secure login/signup with JWT 
 - **Student Management**: 
   - Manual student entry.
   - Bulk upload via CSV/Excel with Multer.
